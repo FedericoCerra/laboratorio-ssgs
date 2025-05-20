@@ -23,7 +23,7 @@ npm (incluso con Node.js)
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/FedericoCerra/laboratorio-ssgs.git
+   git clone https://github.com/FedericoCerra/laboratorio-ssgs
    ```
 2. Naviga nella cartella del progetto:
    ```bash
