@@ -1,12 +1,34 @@
 {
-  "name": "labo-string",
+  "name": "laboratorio-ssgs",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "Questo progetto fornisce una base per una semplice Command-Line Interface (CLI) Node.js che offre diverse utilità per la manipolazione di stringhe.",
+  "main": "src/stringUtils.js",
+  "type": "commonjs",
+  "bin": {
+    "laboStrings": "index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "stringUtils",
+    "string",
+    "funzioni stringhe",
+    "cli",
+    "command-line",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Federico Cerra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FedericoCerra/laboratorio-ssgs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
