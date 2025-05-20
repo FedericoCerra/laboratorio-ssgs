@@ -47,13 +47,3 @@ Oppure esegui all'interno della repo del progetto
 npm start
 ```
 
-## Esecuzione dei test
-
-Per eseguire i test automatizzati, utilizza il comando:
-
-```bash
-npm test
-```
-
-Questo comando eseguirà i test definiti nella cartella `tests` utilizzando Jest.
-
