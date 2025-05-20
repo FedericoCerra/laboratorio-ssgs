@@ -39,7 +39,7 @@ npm (incluso con Node.js)
 Per utilizzare il progetto, esegui il file `index.js` nella root con Node.js:
 
 ```bash
-node bin/index.js
+node index.js
 ```
 Oppure esegui all'interno della repo del progetto
 
