@@ -47,3 +47,27 @@ Oppure esegui all'interno della repo del progetto
 npm start
 ```
 
+## Tests
+
+Per eseguire i test:
+
+# setup di Jest
+
+installa Jest con
+
+```bash
+npm install --save-dev jest
+```
+inizializzalo sul tuo progetto con
+
+```bash
+npx jest --init
+```
+
+# Esecuzione test
+
+Per eseguire i test automatizzati, utilizza il comando:
+
+```bash
+npm test
+```

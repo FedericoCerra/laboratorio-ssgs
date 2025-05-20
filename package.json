@@ -8,7 +8,9 @@
     "laboStrings": "index.js"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "keywords": [
     "stringUtils",
