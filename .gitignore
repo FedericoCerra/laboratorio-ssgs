@@ -17,3 +17,8 @@ dist/
 .coverage
 .pytest_cache/
 htmlcov/
+jest.config.js
+coverage/
+
+#node_modules
+node_modules/
